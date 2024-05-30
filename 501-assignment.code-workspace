@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../501-assignment"
+		},
+		{
+			"name": "501-Assignment-Website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "501-Assignment-Website"
+	}
+}
